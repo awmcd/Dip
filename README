@@ -4,3 +4,16 @@ Things to do:
 
 (2) Finish populating territory data:
     https://spreadsheets.google.com/spreadsheet/ccc?key=0AlgeODOxYN9VdGhFNGZ1VHlqcGNIOFUzWGh5d1l3dVE&hl=en_US
+
+---
+
+Potentially useful plugins:
+
+Timers (for showing turn results with SVG animations)
+http://plugins.jquery.com/project/timers
+
+Qtip 2 (for tooltips and dialogues)
+http://craigsworks.com/projects/qtip2/
+
+Joint (cheap and easy arrows)
+http://www.jointjs.com/
