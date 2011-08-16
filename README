@@ -7,7 +7,7 @@ Things to do:
 
 ---
 
-Potentially useful plugins:
+Potentially useful libraries:
 
 Timers (for showing turn results with SVG animations)
 http://plugins.jquery.com/project/timers
@@ -17,3 +17,6 @@ http://craigsworks.com/projects/qtip2/
 
 Joint (cheap and easy arrows)
 http://www.jointjs.com/
+
+jQuery-JSON (more reliable JSON conversion for older browsers)
+http://code.google.com/p/jquery-json/
