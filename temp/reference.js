@@ -9,7 +9,7 @@ function InitGame() {
 	game.p = {};
 	game.turn = {"season":"Spring","year":"1901"};
 	
-	//Create the powers in the game
+	// Create the powers in the game
 	(function () {
 		var x;
 		for (x in ref.powers) {
