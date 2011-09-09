@@ -1,8 +1,14 @@
-Diplomacy, yo!
-
+Directory tree:
+	assets	// image files, etc.
+	doc		// documentation, specs, etc.
+	js			// third-party supporting javascript libraries (e.g., Raphaël)
+	json		// JSON data templates
+	lib			// game libraries
+	temp		// miscellany
+	
 ---
 
-Potentially useful libraries:
+Potentially useful libraries for future development:
 
 Timers (for showing turn results with SVG animations)
 http://plugins.jquery.com/project/timers
