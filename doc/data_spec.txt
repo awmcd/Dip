@@ -1,0 +1,65 @@
+GAME_SAVE: 
+---------
+
+JSON spec for games saved in the server's database. A complete but data-efficient representation of a game's state for a given turn. These will always be valid gamestates.
+
+
+{
+
+turn: [object]	// contains current turn info
+	{
+	season: [string],	
+	year: [num]
+	},
+
+board: [object]	// all properties of board's current state
+	{
+	aus: [object] 
+		{
+		owns: [array],	// of strings: country ids for countries owned by power
+		units: [array]	// of objects: for each unit
+			{
+			type: [string],	// unit type, i.e., "army" or "fleet"
+			t: [string]	// territory id for territory unit occupies
+			}	
+		},
+	eng: "",
+	fra: "",
+	ger: "",
+	ita: "",
+	rus: "",
+	tur: ""
+	}
+
+previous_orders: [object] // order list object from previous turn (see ORDERS spec, below)
+
+}
+
+
+GAME_STATE:
+----------
+
+JSON spec for active turns. This format is used for adjudication and user interface cues. Created from most recent GAME_SAVE data and REFERENCE data.
+
+
+{
+
+t [object]	// contains state of all territories
+	{
+	<id>: [object]	// property for each territory, named by territory id
+		{
+		name: [string],		// full name of territory
+		type: [string],		// territory type, i.e., "land", "coast", or "sea"
+		adj: [object],		// adjacent territory objects indexed by territory id
+		center: [boolean],	// if territory has supply center, then true, else false
+		owner: [string],	// id of power that owns territory
+		unit: [object]		// contains unit info
+			{
+			present: [boolean],	// if unit present in territory, then true, else false
+			owner: [string],	// id of power that owns unit
+			type: [string]		// unit type, i.e., "army" or "fleet"
+			}
+		}
+	}
+
+}
