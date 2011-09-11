@@ -143,8 +143,7 @@
             "vie",
             "tyr"
          ],
-         "center":"true",
-         "country":"aus"
+         "center":"true"
       },
       {
          "name":"Budapest",
@@ -158,8 +157,7 @@
             "tri",
             "vie"
          ],
-         "center":"true",
-         "country":"aus"
+         "center":"true"
       },
       {
          "name":"Galicia",
@@ -174,8 +172,7 @@
             "sil",
             "war"
          ],
-         "center":"false",
-         "country":"aus"
+         "center":"false"
       },
       {
          "name":"Trieste",
@@ -190,8 +187,7 @@
             "ven",
             "tyr"
          ],
-         "center":"true",
-         "country":"aus"
+         "center":"true"
       },
       {
          "name":"Tyrolia",
@@ -205,8 +201,7 @@
             "ven",
             "pie"
          ],
-         "center":"false",
-         "country":"aus"
+         "center":"false"
       },
       {
          "name":"Vienna",
@@ -219,8 +214,7 @@
             "tri",
             "tyr"
          ],
-         "center":"true",
-         "country":"aus"
+         "center":"true"
       },
       {
          "name":"Clyde",
@@ -232,8 +226,7 @@
             "edi",
             "lvp"
          ],
-         "center":"false",
-         "country":"eng"
+         "center":"false"
       },
       {
          "name":"Edinburgh",
@@ -246,8 +239,7 @@
             "yor",
             "lvp"
          ],
-         "center":"true",
-         "country":"eng"
+         "center":"true"
       },
       {
          "name":"Liverpool",
@@ -261,8 +253,7 @@
             "yor",
             "wal"
          ],
-         "center":"true",
-         "country":"eng"
+         "center":"true"
       },
       {
          "name":"London",
@@ -275,8 +266,7 @@
             "nth",
             "eng"
          ],
-         "center":"true",
-         "country":"eng"
+         "center":"true"
       },
       {
          "name":"Wales",
@@ -289,8 +279,7 @@
             "lon",
             "eng"
          ],
-         "center":"false",
-         "country":"eng"
+         "center":"false"
       },
       {
          "name":"Yorkshire",
@@ -303,8 +292,7 @@
             "nth",
             "lon"
          ],
-         "center":"false",
-         "country":"eng"
+         "center":"false"
       },
       {
          "name":"Brest",
@@ -317,8 +305,7 @@
             "par",
             "gas"
          ],
-         "center":"true",
-         "country":"fra"
+         "center":"true"
       },
       {
          "name":"Burgundy",
@@ -333,8 +320,7 @@
             "mar",
             "gas"
          ],
-         "center":"false",
-         "country":"fra"
+         "center":"false"
       },
       {
          "name":"Gascony",
@@ -348,8 +334,7 @@
             "mar",
             "spa"
          ],
-         "center":"false",
-         "country":"fra"
+         "center":"false"
       },
       {
          "name":"Marseilles",
@@ -362,8 +347,7 @@
             "pie",
             "gol"
          ],
-         "center":"true",
-         "country":"fra"
+         "center":"true"
       },
       {
          "name":"Paris",
@@ -375,8 +359,7 @@
             "bur",
             "gas"
          ],
-         "center":"true",
-         "country":"fra"
+         "center":"true"
       },
       {
          "name":"Picardy",
@@ -389,8 +372,7 @@
             "bur",
             "par"
          ],
-         "center":"false",
-         "country":"fra"
+         "center":"false"
       },
       {
          "name":"Berlin",
@@ -403,8 +385,7 @@
             "sil",
             "mun"
          ],
-         "center":"true",
-         "country":"ger"
+         "center":"true"
       },
       {
          "name":"Kiel",
@@ -419,8 +400,7 @@
             "mun",
             "ruh"
          ],
-         "center":"true",
-         "country":"ger"
+         "center":"true"
       },
       {
          "name":"Munich",
@@ -435,8 +415,7 @@
             "tyr",
             "bur"
          ],
-         "center":"true",
-         "country":"ger"
+         "center":"true"
       },
       {
          "name":"Prussia",
@@ -449,8 +428,7 @@
             "war",
             "sil"
          ],
-         "center":"false",
-         "country":"ger"
+         "center":"false"
       },
       {
          "name":"Ruhr",
@@ -463,8 +441,7 @@
             "mun",
             "bur"
          ],
-         "center":"false",
-         "country":"ger"
+         "center":"false"
       },
       {
          "name":"Silesia",
@@ -478,8 +455,7 @@
             "boh",
             "mun"
          ],
-         "center":"false",
-         "country":"ger"
+         "center":"false"
       },
       {
          "name":"Apulia",
@@ -492,8 +468,7 @@
             "nap",
             "rom"
          ],
-         "center":"false",
-         "country":"ita"
+         "center":"false"
       },
       {
          "name":"Naples",
@@ -505,8 +480,7 @@
             "ion",
             "tyn"
          ],
-         "center":"true",
-         "country":"ita"
+         "center":"true"
       },
       {
          "name":"Piedmont",
@@ -519,8 +493,7 @@
             "tus",
             "gol"
          ],
-         "center":"false",
-         "country":"ita"
+         "center":"false"
       },
       {
          "name":"Rome",
@@ -533,8 +506,7 @@
             "nap",
             "tyn"
          ],
-         "center":"true",
-         "country":"ita"
+         "center":"true"
       },
       {
          "name":"Tuscany",
@@ -547,8 +519,7 @@
             "tyn",
             "gol"
          ],
-         "center":"false",
-         "country":"ita"
+         "center":"false"
       },
       {
          "name":"Venice",
@@ -563,8 +534,7 @@
             "rom",
             "tus"
          ],
-         "center":"true",
-         "country":"ita"
+         "center":"true"
       },
       {
          "name":"lvnonia",
@@ -578,8 +548,7 @@
             "war",
             "pru"
          ],
-         "center":"false",
-         "country":"rus"
+         "center":"false"
       },
       {
          "name":"Moscow",
@@ -592,8 +561,7 @@
             "ukr",
             "war"
          ],
-         "center":"true",
-         "country":"rus"
+         "center":"true"
       },
       {
          "name":"Sevastopol",
@@ -606,8 +574,7 @@
             "arm",
             "rum"
          ],
-         "center":"true",
-         "country":"rus"
+         "center":"true"
       },
       {
          "name":"St. Petersburg",
@@ -621,8 +588,7 @@
             "bot",
             "fin"
          ],
-         "center":"true",
-         "country":"rus"
+         "center":"true"
       },
       {
          "name":"Ukraine",
@@ -635,8 +601,7 @@
             "rum",
             "gal"
          ],
-         "center":"false",
-         "country":"rus"
+         "center":"false"
       },
       {
          "name":"Warsaw",
@@ -650,8 +615,7 @@
             "sil",
             "pru"
          ],
-         "center":"true",
-         "country":"rus"
+         "center":"true"
       },
       {
          "name":"Ankara",
@@ -663,8 +627,7 @@
             "smy",
             "con"
          ],
-         "center":"true",
-         "country":"tur"
+         "center":"true"
       },
       {
          "name":"Armenia",
@@ -677,8 +640,7 @@
             "smy",
             "ank"
          ],
-         "center":"false",
-         "country":"tur"
+         "center":"false"
       },
       {
          "name":"Constantinople",
@@ -691,8 +653,7 @@
             "smy",
             "aeg"
          ],
-         "center":"true",
-         "country":"tur"
+         "center":"true"
       },
       {
          "name":"Smyrna",
@@ -706,8 +667,7 @@
             "eas",
             "aeg"
          ],
-         "center":"true",
-         "country":"tur"
+         "center":"true"
       },
       {
          "name":"Syria",
@@ -718,8 +678,7 @@
             "smy",
             "arm"
          ],
-         "center":"false",
-         "country":"tur"
+         "center":"false"
       },
       {
          "name":"Albania",
@@ -732,8 +691,7 @@
             "gre",
             "ion"
          ],
-         "center":"false",
-         "country":"neu"
+         "center":"false"
       },
       {
          "name":"Belgium",
@@ -747,8 +705,7 @@
             "bur",
             "pic"
          ],
-         "center":"true",
-         "country":"neu"
+         "center":"true"
       },
       {
          "name":"Bulgaria",
@@ -762,8 +719,7 @@
             "gre",
             "ser"
          ],
-         "center":"true",
-         "country":"neu"
+         "center":"true"
       },
       {
          "name":"Denmark",
@@ -777,8 +733,7 @@
             "kie",
             "hel"
          ],
-         "center":"true",
-         "country":"neu"
+         "center":"true"
       },
       {
          "name":"Finland",
@@ -790,8 +745,7 @@
             "bot",
             "swe"
          ],
-         "center":"false",
-         "country":"neu"
+         "center":"false"
       },
       {
          "name":"Greece",
@@ -804,8 +758,7 @@
             "aeg",
             "ion"
          ],
-         "center":"true",
-         "country":"neu"
+         "center":"true"
       },
       {
          "name":"Holland",
@@ -818,8 +771,7 @@
             "ruh",
             "bel"
          ],
-         "center":"true",
-         "country":"neu"
+         "center":"true"
       },
       {
          "name":"Norway",
@@ -834,8 +786,7 @@
             "swe",
             "ska"
          ],
-         "center":"true",
-         "country":"neu"
+         "center":"true"
       },
       {
          "name":"North Africa",
@@ -846,8 +797,7 @@
             "wes",
             "tun"
          ],
-         "center":"false",
-         "country":"neu"
+         "center":"false"
       },
       {
          "name":"Portugal",
@@ -857,8 +807,7 @@
             "mid",
             "spa"
          ],
-         "center":"true",
-         "country":"neu"
+         "center":"true"
       },
       {
          "name":"Rumania",
@@ -874,8 +823,7 @@
             "ser",
             "gal"
          ],
-         "center":"true",
-         "country":"neu"
+         "center":"true"
       },
       {
          "name":"Serbia",
@@ -889,8 +837,7 @@
             "gre",
             "alb"
          ],
-         "center":"false",
-         "country":"neu"
+         "center":"false"
       },
       {
          "name":"Spain",
@@ -904,8 +851,7 @@
             "gol",
             "wes"
          ],
-         "center":"true",
-         "country":"neu"
+         "center":"true"
       },
       {
          "name":"Sweden",
@@ -919,8 +865,7 @@
             "den",
             "ska"
          ],
-         "center":"true",
-         "country":"neu"
+         "center":"true"
       },
       {
          "name":"Tunis",
@@ -932,8 +877,7 @@
             "tyn",
             "ion"
          ],
-         "center":"true",
-         "country":"neu"
+         "center":"true"
       },
       {
          "name":"Adriatic Sea",
@@ -946,8 +890,7 @@
             "ion",
             "apu"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       },
       {
          "name":"Aegean Sea",
@@ -961,8 +904,7 @@
             "eas",
             "ion"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       },
       {
          "name":"Baltic Sea",
@@ -977,8 +919,7 @@
             "ber",
             "kie"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       },
       {
          "name":"Barents Sea",
@@ -989,8 +930,7 @@
             "stp",
             "nwy"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       },
       {
          "name":"Black Sea",
@@ -1004,8 +944,7 @@
             "bul",
             "rum"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       },
       {
          "name":"Eastern Mediterranean",
@@ -1017,8 +956,7 @@
             "smy",
             "syr"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       },
       {
          "name":"English Channel",
@@ -1034,8 +972,7 @@
             "bre",
             "mid"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       },
       {
          "name":"Gulf of Bothnia",
@@ -1048,8 +985,7 @@
             "lvn",
             "bal"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       },
       {
          "name":"Gulf of Lyon",
@@ -1063,8 +999,7 @@
             "tyn",
             "wes"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       },
       {
          "name":"Helgoland Bight",
@@ -1076,8 +1011,7 @@
             "kie",
             "hol"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       },
       {
          "name":"Ionian Sea",
@@ -1094,8 +1028,7 @@
             "aeg",
             "eas"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       },
       {
          "name":"Irish Sea",
@@ -1108,8 +1041,7 @@
             "wal",
             "eng"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       },
       {
          "name":"Mid-Atlantic Ocean",
@@ -1126,8 +1058,7 @@
             "wes",
             "naf"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       },
       {
          "name":"North Atlantic Ocean",
@@ -1140,8 +1071,7 @@
             "iri",
             "mid"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       },
       {
          "name":"North Sea",
@@ -1159,8 +1089,7 @@
             "yor",
             "edi"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       },
       {
          "name":"Norwegian Sea",
@@ -1174,8 +1103,7 @@
             "edi",
             "cly"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       },
       {
          "name":"Skagerrak",
@@ -1187,8 +1115,7 @@
             "den",
             "nth"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       },
       {
          "name":"Tyrrhenian Sea",
@@ -1203,8 +1130,7 @@
             "tun",
             "wes"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       },
       {
          "name":"Western Mediterranean",
@@ -1218,8 +1144,7 @@
             "naf",
             "mid"
          ],
-         "center":"false",
-         "country":"sea"
+         "center":"false"
       }
    ]
 }
